@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HTML 5 Boilerplate</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+
+    <header>
+      <h1 id="banner_1">dwayne brock's webpage</h1>
+    </header>
+
+    <main id="main">
+      <p>welcome to my page. I am interested in a variety of technologies.<br>
+         here I will show them to you.</p>
+
+    <aside id="tech_list">
+      <ul>technologies list: click on each item for more information.
+        <li><a href="html_pages.html" alt="html_pages" target="_blank">HTML</a></li>
+        <li><a href="css_pages.html" alt="css_pages" target="_blank">CSS</a></li>
+        <li><a href="js_pages.html" alt="javascript_pages" target="_blank">Javascript</a></li>
+        <li><a href="linux.html" alt ="linux_pages" target="_blank">Ubuntu Linux Server</a></li>
+        <li><a href="graphics.html" alt ="graphics_pages" target="_blank">web graphics</a></li>
+        <li><a href="3d.html" alt="blender_pages" target="_blank">Blender 3D graphics</a></li>
+        <li><a href="cpp_programming.html" alt ="cpp_programming_pages" target="_blank">C++ Programming</a></li>
+      </ul>
+    </aside>
+
+
+    </main>
+
+    <footer>
+    </footer>
+
+  </body>
+</html>
